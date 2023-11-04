@@ -16,14 +16,14 @@
 #include "addons/TokenHelper.h"
 
 // Insert Firebase project API Key
-// #define API_KEY "AIzaSyDjk-mtrSASnfCGy_SxiCyD0TK2QCNxOBU"
-#define API_KEY "AIzaSyDga5aiwXmw_YZOGAKOOPUifrKd85GYbdU"
+ 
+#define API_KEY "YOUR API KEY"
 // Authorized Email and Corresponding Password
-#define USER_EMAIL "adrianxalzamora@gmail.com"
-#define USER_PASSWORD "iot2023"
+#define USER_EMAIL "YOUR MAIL"
+#define USER_PASSWORD "YOU PASSWORD"
 
 // network credentials 
-#define DATABASE_URL "https://tastypoint-firebase-default-rtdb.firebaseio.com"
+#define DATABASE_URL "YOUR DATABASE URL"
 
 // Define Firebase objects
 FirebaseData fbdo;
