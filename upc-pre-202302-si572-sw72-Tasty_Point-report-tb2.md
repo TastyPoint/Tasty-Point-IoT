@@ -3,11 +3,11 @@
   -----------------------------------------------------------------------
 
 ![detail of city buildings in
-black&white](media/image1.jpeg){width="8.464583333333334in"
+black&white](.\media\/media/image1.jpeg){width="8.464583333333334in"
 height="10.952777777777778in"}
 
 ![A picture containing text Description automatically
-generated](media/image2.png){width="1.382638888888889in"
+generated](.\media\/media/image2.png){width="1.382638888888889in"
 height="1.382638888888889in"}
 
 # Registro de versiones del Informe {#registro-de-versiones-del-informe .Estilo-sin-numeracion .unnumbered}
@@ -770,7 +770,7 @@ comercio local y la promoción de la gastronomía peruana.
 |                                   | todo con respecto a los distintos |
 |                                   | lenguajes de programación.        |
 +-----------------------------------+-----------------------------------+
-| ![](media/image3.                 |                                   |
+| ![](.\media\/media/image3.        |                                   |
 | png){width="2.3277055993000877in" |                                   |
 | height="3.0416666666666665in"}    |                                   |
 +-----------------------------------+-----------------------------------+
@@ -790,7 +790,7 @@ comercio local y la promoción de la gastronomía peruana.
 |                                   | enfocadas en el desarrollo de     |
 |                                   | aplicaciones móviles.             |
 +-----------------------------------+-----------------------------------+
-| ![](media/image4.                 |                                   |
+| ![](.\media\/media/image4.        |                                   |
 | png){width="2.2083333333333335in" |                                   |
 | height="2.8180555555555555in"}    |                                   |
 +-----------------------------------+-----------------------------------+
@@ -807,7 +807,7 @@ comercio local y la promoción de la gastronomía peruana.
 |                                   | enfoque ágil y empleando          |
 |                                   | tecnologías emergentes.           |
 +-----------------------------------+-----------------------------------+
-| ![](media/image5.j                |                                   |
+| ![](.\media\/media/image5.j       |                                   |
 | peg){width="1.6618055555555555in" |                                   |
 | height="2.232638888888889in"}     |                                   |
 +-----------------------------------+-----------------------------------+
@@ -824,7 +824,7 @@ comercio local y la promoción de la gastronomía peruana.
 |                                   | desarrollo de experiencias móvil  |
 |                                   | con flutter y nativo con Kotlin.  |
 +-----------------------------------+-----------------------------------+
-| ![](media/image6.                 |                                   |
+| ![](.\media\/media/image6.        |                                   |
 | png){width="2.3020833333333335in" |                                   |
 | height="2.5625in"}                |                                   |
 +-----------------------------------+-----------------------------------+
@@ -846,7 +846,7 @@ comercio local y la promoción de la gastronomía peruana.
 |                                   | desarrollo web y conocimientos    |
 |                                   | básicos sobre el framework .NET.  |
 +-----------------------------------+-----------------------------------+
-| ![](media/image7.                 |                                   |
+| ![](.\media\/media/image7.        |                                   |
 | jpg){width="2.4806846019247595in" |                                   |
 | height="3.0208333333333335in"}    |                                   |
 +-----------------------------------+-----------------------------------+
@@ -1305,7 +1305,7 @@ podremos tomar medidas preventivas para garantizar una cadena de
 suministro más confiable y evitar interrupciones en la entrega de
 alimentos.
 
-#### ![Imagen que contiene Escala de tiempo Descripción generada automáticamente](media/image8.png){width="7.535416666666666in" height="3.8048611111111112in"}1.2.2.4. Lean UX Canvas {#imagen-que-contiene-escala-de-tiempo-descripción-generada-automáticamente1.2.2.4.-lean-ux-canvas .Titulo-4}
+#### ![Imagen que contiene Escala de tiempo Descripción generada automáticamente](.\media\/media/image8.png){width="7.535416666666666in" height="3.8048611111111112in"}1.2.2.4. Lean UX Canvas {#imagen-que-contiene-escala-de-tiempo-descripción-generada-automáticamente1.2.2.4.-lean-ux-canvas .Titulo-4}
 
 ## 1.3. Segmentos objetivo  {#segmentos-objetivo .Tituloo-2}
 
@@ -1336,7 +1336,7 @@ alimentos.
 
 ### 2.1.1. Análisis competitivo**. ** {#análisis-competitivo. .Titulo-3 .unnumbered}
 
-![](media/image9.png){width="3.145138888888889in"
+![](.\media\/media/image9.png){width="3.145138888888889in"
 height="1.9736111111111112in"}
 
 1.- **Too good to go** es la aplicación más grande que lucha contra el
@@ -1346,7 +1346,7 @@ satisfechos, porque se evitó el desperdicio de comida desde el 2018. 
 
  
 
-![](media/image10.png){width="3.0055555555555555in"
+![](.\media\/media/image10.png){width="3.0055555555555555in"
 height="1.976388888888889in"}2.- **Phenix** es la empresa emergente
 líder que lucha contra el desperdicio de la comida con sedes en
 diferentes partes del mundo y desde su fundación en 2014 a la fecha
@@ -1355,7 +1355,7 @@ sido desperdiciados. Dicha empresa tiene aliados como distribuidores,
 fabricantes, mayoristas y tiendas alimentarias. 
 
 ![Imagen que contiene Texto Descripción generada
-automáticamente](media/image11.png){width="2.9881944444444444in"
+automáticamente](.\media\/media/image11.png){width="2.9881944444444444in"
 height="2.175in"}3.- **Olio** nace en el 2014 con la fundación de Teesa
 Cook, en mira a que en el mundo la tercera parte de alimentos que
 consumimos se tira a la basura esto, incentivó a poner en marcha a Olio.
@@ -1830,7 +1830,7 @@ alimentos? De ser así, ¿qué le gustaría que la aplicación móvil tuviera?
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media/image12.png){width="6.9in" height="2.2291666666666665in"}
+  ![](.\media\/media/image12.png){width="6.9in" height="2.2291666666666665in"}
   -----------------------------------------------------------------------------------------------------------------------------------------------
   URL: [Entrevista Dueño de
   restaurante](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/ESrkBUt9F_hGnyZsi3zsCmwBIfXyJ5h6IJLv3_LbWr-NZA?e=Oab2zT)
@@ -1921,7 +1921,8 @@ opinión y recomendarla si esta ha sido de su agrado?
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
-  ![](media/image13.png){width="5.0in" height="2.7291666666666665in"}
+  ![](.\media\/media/image13.png){width="5.0in"
+  height="2.7291666666666665in"}
   -----------------------------------------------------------------------
   URL: [Entrevista Consumidor](https://youtu.be/jDtoZJNe9TU)
 
@@ -1950,7 +1951,7 @@ opinión y recomendarla si esta ha sido de su agrado?
 
   Duración                                                                                                                              3.07m
 
-  ![](media/image14.png){width="5.91666447944007in" height="3.081596675415573in"}                                                       
+  ![](.\media\/media/image14.png){width="5.91666447944007in" height="3.081596675415573in"}                                              
 
   URL: [Entrevista Consumidor                                                                                                           
   2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20161a096_upc_edu_pe/EeZ1CZ78inJDhp7ol2sIn_UBbQamhR9fQXrPh9rDSUPraQ?e=KC18F1)   
@@ -1967,9 +1968,9 @@ opinión y recomendarla si esta ha sido de su agrado?
 
 ## 2.3. Needfinding.  {#needfinding. .Tituloo-2}
 
-## ![Interfaz de usuario gráfica, Sitio web Descripción generada automáticamente](media/image15.png){width="6.683333333333334in" height="7.675in"}2.3.1. User Personas.  {#interfaz-de-usuario-gráfica-sitio-web-descripción-generada-automáticamente2.3.1.-user-personas. .Tituloo-2}
+## ![Interfaz de usuario gráfica, Sitio web Descripción generada automáticamente](.\media\/media/image15.png){width="6.683333333333334in" height="7.675in"}2.3.1. User Personas.  {#interfaz-de-usuario-gráfica-sitio-web-descripción-generada-automáticamente2.3.1.-user-personas. .Tituloo-2}
 
-![](media/image16.jpeg){width="6.790928477690288in"
+![](.\media\/media/image16.jpeg){width="6.790928477690288in"
 height="7.779220253718285in"}**\
 **
 
@@ -2022,31 +2023,31 @@ height="7.779220253718285in"}**\
 ### 2.3.3. User Journey Mapping. {#user-journey-mapping. .Titulo-3 .unnumbered}
 
 ![Imagen que contiene Diagrama Descripción generada
-automáticamente](media/image17.png){width="8.194444444444445in"
+automáticamente](.\media\/media/image17.png){width="8.194444444444445in"
 height="6.696527777777778in"}Consumidor:
 
 ![Diagrama Descripción generada automáticamente con confianza
-media](media/image18.png){width="7.673894356955381in"
+media](.\media\/media/image18.png){width="7.673894356955381in"
 height="5.779221347331584in"}Cliente:
 
 **\
 **
 
-### ![Interfaz de usuario gráfica Descripción generada automáticamente](media/image19.png){width="6.895833333333333in" height="7.709027777777778in"}2.3.4. Empathy Mapping {#interfaz-de-usuario-gráfica-descripción-generada-automáticamente2.3.4.-empathy-mapping .Titulo-3 .unnumbered}
+### ![Interfaz de usuario gráfica Descripción generada automáticamente](.\media\/media/image19.png){width="6.895833333333333in" height="7.709027777777778in"}2.3.4. Empathy Mapping {#interfaz-de-usuario-gráfica-descripción-generada-automáticamente2.3.4.-empathy-mapping .Titulo-3 .unnumbered}
 
 ![Interfaz de usuario gráfica Descripción generada automáticamente con
-confianza media](media/image20.png){width="6.896104549431321in"
+confianza media](.\media\/media/image20.png){width="6.896104549431321in"
 height="8.28326990376203in"}
 
 ### 2.3.5. As-is Scenario Mapping. {#as-is-scenario-mapping. .Titulo-3 .unnumbered}
 
 ![Diagrama, Texto Descripción generada
-automáticamente](media/image21.png){width="7.522222222222222in"
+automáticamente](.\media\/media/image21.png){width="7.522222222222222in"
 height="3.765972222222222in"}Consumidor:
 
 Cliente:
 
-![](media/image22.png){width="7.26875in" height="3.69375in"}
+![](.\media\/media/image22.png){width="7.26875in" height="3.69375in"}
 
 Link de los as-is scenarios:
 https://miro.com/app/board/uXjVPbmMyEc=/?share_link_id=757619138617
@@ -2057,13 +2058,13 @@ https://miro.com/app/board/uXjVPbmMyEc=/?share_link_id=757619138617
 
 Consumidor: los usuarios que van a comprar los alimentos.
 
-![](media/image23.png){width="6.893055555555556in"
+![](.\media\/media/image23.png){width="6.893055555555556in"
 height="3.4694444444444446in"}
 
 Cliente: cadena de restaurantes y comidas.
 
 ![Diagrama Descripción generada
-automáticamente](media/image24.png){width="6.9in"
+automáticamente](.\media\/media/image24.png){width="6.9in"
 height="3.439583333333333in"}
 
 Link de los to-be scenarios:
@@ -2910,7 +2911,7 @@ desarrollo del software.
 **Segmento Usuario:**
 
 ![Timeline Description automatically
-generated](media/image25.png){width="6.9in"
+generated](.\media\/media/image25.png){width="6.9in"
 height="4.308333333333334in"}
 
 **\
@@ -2919,7 +2920,7 @@ height="4.308333333333334in"}
 **Segmento Cliente:**
 
 ![Timeline Description automatically
-generated](media/image26.png){width="6.9in" height="6.9in"}
+generated](.\media\/media/image26.png){width="6.9in" height="6.9in"}
 
 ## 3.4. Product Backlog.  {#product-backlog. .Tituloo-2}
 
@@ -3264,19 +3265,19 @@ Link a Product Backlog en Trello:
 #### 4.1.1.1 Candidate Context Discovery {#candidate-context-discovery .unnumbered}
 
 ![Gráfico Descripción generada
-automáticamente](media/image27.png){width="6.9in"
+automáticamente](.\media\/media/image27.png){width="6.9in"
 height="5.590277777777778in"}
 
 ![Gráfico, Gráfico en cascada Descripción generada
-automáticamente](media/image28.png){width="6.9in"
+automáticamente](.\media\/media/image28.png){width="6.9in"
 height="6.892361111111111in"}
 
 ![Diagrama Descripción generada
-automáticamente](media/image29.png){width="6.9in"
+automáticamente](.\media\/media/image29.png){width="6.9in"
 height="7.4944444444444445in"}
 
 ![Gráfico, Gráfico en cascada Descripción generada
-automáticamente](media/image30.png){width="6.9in"
+automáticamente](.\media\/media/image30.png){width="6.9in"
 height="2.7402777777777776in"}
 
 Enlace:
@@ -3285,14 +3286,15 @@ Enlace:
 #### 4.1.1.2 Domain Message Flows Modeling {#domain-message-flows-modeling .unnumbered}
 
 ![Diagrama Descripción generada
-automáticamente](media/image31.png){width="6.9in"
+automáticamente](.\media\/media/image31.png){width="6.9in"
 height="4.0881944444444445in"}
 
 ![Diagrama Descripción generada automáticamente con confianza
-media](media/image32.png){width="6.9in" height="4.117361111111111in"}
+media](.\media\/media/image32.png){width="6.9in"
+height="4.117361111111111in"}
 
 ![Diagrama Descripción generada
-automáticamente](media/image33.png){width="6.9in"
+automáticamente](.\media\/media/image33.png){width="6.9in"
 height="4.108333333333333in"}
 
 #### 4.1.1.3 Bounded Context Canvases.  {#bounded-context-canvases. .unnumbered}
@@ -3300,31 +3302,31 @@ height="4.108333333333333in"}
 ##### User bounded context canvas {#user-bounded-context-canvas .unnumbered}
 
 ![A screenshot of a computer Description automatically
-generated](media/image34.png){width="6.9in"
+generated](.\media\/media/image34.png){width="6.9in"
 height="3.661111111111111in"}
 
 ##### Payment bounded context canvas {#payment-bounded-context-canvas .unnumbered}
 
 ![A screenshot of a computer Description automatically
-generated](media/image35.png){width="6.9in"
+generated](.\media\/media/image35.png){width="6.9in"
 height="3.661111111111111in"}
 
 ##### Inventory Analutics bounded context canvas {#inventory-analutics-bounded-context-canvas .unnumbered}
 
 ![A screenshot of a computer Description automatically
-generated](media/image36.png){width="6.9in"
+generated](.\media\/media/image36.png){width="6.9in"
 height="3.661111111111111in"}
 
 ##### Product bounded context canvas {#product-bounded-context-canvas .unnumbered}
 
 ![A screenshot of a computer Description automatically
-generated](media/image37.png){width="6.9in"
+generated](.\media\/media/image37.png){width="6.9in"
 height="3.661111111111111in"}
 
 ### 4.1.2. Context Mapping {#context-mapping .unnumbered}
 
 ![A screenshot of a computer screen Description automatically
-generated](media/image38.png){width="6.9in"
+generated](.\media\/media/image38.png){width="6.9in"
 height="5.684029965004375in"}
 
 ### 4.1.3 Software Architecture {#software-architecture .unnumbered}
@@ -3336,7 +3338,7 @@ TastyPoint. Aquí podemos evidenciar las relaciones con los segmentos
 objetivo, así como los sistemas externos con los que interactúa nuestro
 sistema.
 
-![](media/image39.png){width="6.814166666666667in"
+![](.\media\/media/image39.png){width="6.814166666666667in"
 height="3.5490441819772527in"}
 
 #### 4.1.3.2 Software Architecture Context Level Diagram {#software-architecture-context-level-diagram .unnumbered}
@@ -3345,7 +3347,7 @@ En este diagrama se plasma el contexto general que engloba nuestro
 sistema TastyPoint. Aquí evidenciamos las relaciones de nuestro sistema
 con otros así como con los segmentos objetivos.
 
-![](media/image40.png){width="5.52252624671916in"
+![](.\media\/media/image40.png){width="5.52252624671916in"
 height="5.775190288713911in"}
 
 #### 4.1.3.3 Software Architecture Container Level Diagram {#software-architecture-container-level-diagram .unnumbered}
@@ -3354,7 +3356,7 @@ En este diagrama se muestran los principales componentes de nuestro de
 nuestro sistema (TastyPoint). Así como estos se relacionan con nuestros
 segmentos objetivos y sistemas externos.
 
-![](media/image41.png){width="6.869593175853018in"
+![](.\media\/media/image41.png){width="6.869593175853018in"
 height="5.653103674540683in"}
 
 #### 4.1.3.4 Software Architecture Deployment Diagrams {#software-architecture-deployment-diagrams .unnumbered}
@@ -3364,7 +3366,8 @@ arquitectura del despliegue de nuestra solución. Se puede verificar la
 interacción que sucede entre los componentes desplegados y elementos que
 usan los clientes para disfrutar del servicio.
 
-![](media/image42.png){width="6.718359580052494in" height="7.3125in"}
+![](.\media\/media/image42.png){width="6.718359580052494in"
+height="7.3125in"}
 
 ## 4.2. Tactical-Level Domain-Driven Design {#tactical-level-domain-driven-design .unnumbered}
 
@@ -3709,7 +3712,7 @@ Aggregates
 #### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams. {#bounded-context-software-architecture-component-level-diagrams. .unnumbered}
 
 ![A diagram of a company Description automatically
-generated](media/image43.png){width="6.9in"
+generated](.\media\/media/image43.png){width="6.9in"
 height="5.844444444444444in"}
 
 #### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams. {#bounded-context-software-architecture-code-level-diagrams. .unnumbered}
@@ -3717,13 +3720,13 @@ height="5.844444444444444in"}
 ##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams. {#bounded-context-domain-layer-class-diagrams. .unnumbered}
 
 ![A screenshot of a computer Description automatically
-generated](media/image44.png){width="6.416666666666667in"
+generated](.\media\/media/image44.png){width="6.416666666666667in"
 height="8.291666666666666in"}
 
 ##### 4.2.1.7.2. Bounded Context Database Design Diagram. {#bounded-context-database-design-diagram. .unnumbered}
 
 ![A screenshot of a computer Description automatically
-generated](media/image45.png){width="5.492704505686789in"
+generated](.\media\/media/image45.png){width="5.492704505686789in"
 height="5.544745188101487in"}
 
 Link: <https://ibb.co/F75hsNf>
@@ -3895,17 +3898,19 @@ Link: <https://ibb.co/F75hsNf>
 
 #### 4.2.2.6. Bounded Context Software Architecture Component Level Diagrams.  {#bounded-context-software-architecture-component-level-diagrams.-1 .unnumbered}
 
-![](media/image46.png){width="5.0in" height="2.53125in"}
+![](.\media\/media/image46.png){width="5.0in" height="2.53125in"}
 
 #### 4.2.2.7. Bounded Context Software Architecture Code Level Diagrams. {#bounded-context-software-architecture-code-level-diagrams.-1 .unnumbered}
 
 ##### 4.2.2.7.1. Bounded Context Domain Layer Class Diagrams {#bounded-context-domain-layer-class-diagrams .unnumbered}
 
-![](media/image47.png){width="5.0in" height="4.020833333333333in"}
+![](.\media\/media/image47.png){width="5.0in"
+height="4.020833333333333in"}
 
 ##### 4.2.2.7.2. Bounded Context Database Design Diagram. {#bounded-context-database-design-diagram.-1 .unnumbered}
 
-![](media/image48.png){width="5.0in" height="3.9895833333333335in"}
+![](.\media\/media/image48.png){width="5.0in"
+height="3.9895833333333335in"}
 
 ### 4.2.3. Bounded Context: Payment  {#bounded-context-payment .unnumbered}
 
@@ -4167,7 +4172,7 @@ Link: <https://ibb.co/F75hsNf>
 
  
 
-#### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams.  ![Diagrama Descripción generada automáticamente](media/image49.png){width="5.707300962379702in" height="8.089363517060367in"}  {#bounded-context-software-architecture-component-level-diagrams.-diagrama-descripción-generada-automáticamente .unnumbered}
+#### 4.2.3.6. Bounded Context Software Architecture Component Level Diagrams.  ![Diagrama Descripción generada automáticamente](.\media\/media/image49.png){width="5.707300962379702in" height="8.089363517060367in"}  {#bounded-context-software-architecture-component-level-diagrams.-diagrama-descripción-generada-automáticamente .unnumbered}
 
  
 
@@ -4178,7 +4183,7 @@ Link: <https://ibb.co/F75hsNf>
  
 
 ![Diagrama Descripción generada
-automáticamente](media/image50.png){width="6.9in"
+automáticamente](.\media\/media/image50.png){width="6.9in"
 height="6.738888888888889in"} 
 
  
@@ -4190,7 +4195,7 @@ height="6.738888888888889in"} 
 ##### 4.2.3.7.2. Bounded Context Database Design Diagram.  {#bounded-context-database-design-diagram.-2 .unnumbered}
 
 ![Diagrama Descripción generada
-automáticamente](media/image51.png){width="6.24375in"
+automáticamente](.\media\/media/image51.png){width="6.24375in"
 height="4.051388888888889in"} 
 
  
@@ -4392,7 +4397,7 @@ height="4.051388888888889in"} 
 
 ![Imagen de la pantalla de un celular con letras Descripción generada
 automáticamente con confianza
-media](media/image52.png){width="6.485417760279965in"
+media](.\media\/media/image52.png){width="6.485417760279965in"
 height="3.8843744531933506in"}
 
 #### 4.2.5.7. Bounded Context Software Architecture Code Level Diagrams.  {#bounded-context-software-architecture-code-level-diagrams.-3 .unnumbered}
@@ -4400,7 +4405,7 @@ height="3.8843744531933506in"}
 ##### 4.2.5.7.1. Bounded Context Domain Layer Class Diagrams  {#bounded-context-domain-layer-class-diagrams-2 .unnumbered}
 
 ![Diagrama Descripción generada
-automáticamente](media/image53.png){width="2.0416666666666665in"
+automáticamente](.\media\/media/image53.png){width="2.0416666666666665in"
 height="4.5625in"} 
 
  
@@ -4410,7 +4415,7 @@ height="4.5625in"} 
 ##### 4.2.5.7.2. Bounded Context Database Design Diagram.  {#bounded-context-database-design-diagram.-3 .unnumbered}
 
  ![Diagrama Descripción generada
-automáticamente](media/image54.png){width="2.6041666666666665in"
+automáticamente](.\media\/media/image54.png){width="2.6041666666666665in"
 height="3.6666666666666665in"}
 
  
@@ -4427,7 +4432,7 @@ aplicaciones en las cuales ofrecen sus servicios. Del mismo modo, esta
 permite que se presente una comunicación consistente en el entorno de
 una empresa.
 
-![](media/image55.png){width="3.4625in"
+![](.\media\/media/image55.png){width="3.4625in"
 height="3.4625in"}**Brand:**Primero, es necesario recalcar nuestras 2
 intenciones al crear la marca: Evitar el desperdicio de comida, y
 distribuir comida buena y barata.
@@ -4497,7 +4502,7 @@ representa la vitalidad y confiabilidad que queremos representar para
 nuestros clientes.
 
 ![A screenshot of a computer screen Description automatically
-generated](media/image56.png){width="6.9in"
+generated](.\media\/media/image56.png){width="6.9in"
 height="5.0777777777777775in"}
 
 Typography
@@ -4521,11 +4526,11 @@ estilos, lo que la hace una fuente versátil. Además, ya que fue
 optimizada para la interfaz móvil, cuenta con una excelente legibilidad.
 
 ![A screenshot of a computer Description automatically
-generated](media/image57.png){width="4.703877952755906in"
+generated](.\media\/media/image57.png){width="4.703877952755906in"
 height="3.3451695100612424in"}
 
 ![A screenshot of a computer Description automatically
-generated](media/image57.png){width="4.9139523184601925in"
+generated](.\media\/media/image57.png){width="4.9139523184601925in"
 height="3.4945636482939633in"}
 
 **Botones: Montserrat**
@@ -4536,11 +4541,11 @@ B2: Montserrat, 15 px.
 
 Spacing
 
-![](media/image59.svg){width="4.860464785651794in"
+![](.\media\/media/image59.svg){width="4.860464785651794in"
 height="4.7802395013123355in"}
 
 ![Chart, line chart Description automatically
-generated](media/image60.png){width="5.145833333333333in"
+generated](.\media\/media/image60.png){width="5.145833333333333in"
 height="3.3881944444444443in"}Nuestra aplicación web usará el Patrón en
 Z:
 
@@ -4568,7 +4573,8 @@ tabletas más grandes. Por eso, el diseño debe ser adaptable y sensible a
 diferentes resoluciones y tamaños de pantalla.
 
 ![Responsive web design คืออะไร - Zixzax
-Studio](media/image61.gif){width="6.9in" height="3.7256944444444446in"}\
+Studio](.\media\/media/image61.gif){width="6.9in"
+height="3.7256944444444446in"}\
 *Responsive Design*
 
 Para nuestra solución web podremos aplicar esta técnica utilizando el
@@ -4585,7 +4591,8 @@ dispositivos IoT y proporcionar información significativa a los
 usuarios.
 
 ![Temperature and Humidity Monitoring - The Next-Gen Industrial
-IoT](media/image62.png){width="6.9in" height="4.271527777777778in"}\
+IoT](.\media\/media/image62.png){width="6.9in"
+height="4.271527777777778in"}\
 *IoT Temperature Report Graphic*
 
 Nuestra solución web se encargará de mostrar a nuestros usuarios un
@@ -4604,7 +4611,7 @@ usuarios.
 ![Pantalla Táctil De La Mano Gestos Iconos Conjunto Para El Diseño De
 Aplicaciones Móviles Aislados Ilustraciones svg, vectoriales, clip art
 vectorizado libre de derechos. Image
-27138839](media/image63.jpeg){width="5.364583333333333in"
+27138839](.\media\/media/image63.jpeg){width="5.364583333333333in"
 height="5.364583333333333in"}\
 *Mobile Gestures*
 
@@ -4723,7 +4730,7 @@ en
 [Figma](https://www.figma.com/file/ZQ67XEsVMRaEnu6W0mBOcV/Tasty-Point-Landing-Page?type=design&node-id=0-1&mode=design). 
 
 ![A screenshot of a website Description automatically
-generated](media/image64.png){width="6.344635826771653in"
+generated](.\media\/media/image64.png){width="6.344635826771653in"
 height="4.521464348206474in"}\
 *Tasty Point Landing Page Wireframe, Screenshoot.*
 
@@ -4738,7 +4745,7 @@ un modelo de tipo Wireframe. Para un mayor detalle, se puede visualizar
 en
 [Figma](https://www.figma.com/file/ZQ67XEsVMRaEnu6W0mBOcV/Tasty-Point-Landing-Page?type=design&node-id=1-1049&mode=design).
 
-![](media/image65.png){width="5.807659667541557in"
+![](.\media\/media/image65.png){width="5.807659667541557in"
 height="4.424339457567804in"}\
 *Tasty Point Landing Page Mock-up, Screenshoot*
 
@@ -4754,26 +4761,26 @@ Mobile Wireframes:
 Pantallas de inicio session y registro.
 
 ![A screenshot of a computer screen Description automatically
-generated](media/image66.png){width="6.9in"
+generated](.\media\/media/image66.png){width="6.9in"
 height="2.504166666666667in"}
 
 Pantallas de panel de control de productos.
 
 ![A screenshot of a computer screen Description automatically
-generated](media/image67.png){width="6.9in"
+generated](.\media\/media/image67.png){width="6.9in"
 height="4.632638888888889in"}
 
 Pantallas de monitoreo de temperatura, reporte y configuración de cuenta
 y dispositivo IoT.
 
 ![A screenshot of a computer Description automatically
-generated](media/image68.png){width="6.9in"
+generated](.\media\/media/image68.png){width="6.9in"
 height="5.111805555555556in"}
 
 Páginas de error
 
 ![A screenshot of a phone Description automatically
-generated](media/image69.png){width="6.9in"
+generated](.\media\/media/image69.png){width="6.9in"
 height="1.4881944444444444in"}
 
 Enlace:
@@ -4782,16 +4789,16 @@ Enlace:
 Mobile Wireframes:
 
 ![Graphical user interface, application Description automatically
-generated](media/image70.png){width="4.8375in"
+generated](.\media\/media/image70.png){width="4.8375in"
 height="6.590972222222222in"}
 
 1.  
 
 ![Graphical user interface, application Description automatically
-generated](media/image71.png){width="4.95625in"
+generated](.\media\/media/image71.png){width="4.95625in"
 height="7.114583333333333in"}\
 ![Graphical user interface, application Description automatically
-generated](media/image72.png){width="6.230036089238845in"
+generated](.\media\/media/image72.png){width="6.230036089238845in"
 height="8.730384951881016in"}
 
 ### 5.4.2. Applications Wireflow Diagrams. {#applications-wireflow-diagrams. .unnumbered}
@@ -4808,36 +4815,36 @@ wireflow.
 Tarea: Registro
 
 ![A screenshot of a computer Description automatically
-generated](media/image73.png){width="6.9in"
+generated](.\media\/media/image73.png){width="6.9in"
 height="5.445138888888889in"}
 
 Tarea: Inicio sesión
 
 ![A screenshot of a computer Description automatically
-generated](media/image74.png){width="5.105873797025372in"
+generated](.\media\/media/image74.png){width="5.105873797025372in"
 height="4.0673293963254595in"}
 
 Tarea: Crear producto
 
-![](media/image75.png){width="6.900099518810149in"
+![](.\media\/media/image75.png){width="6.900099518810149in"
 height="3.8674168853893263in"}
 
 Tarea: Actualizar producto
 
 ![A screenshot of a computer Description automatically
-generated](media/image76.png){width="6.834163385826772in"
+generated](.\media\/media/image76.png){width="6.834163385826772in"
 height="3.6186122047244096in"}
 
 Tarea: Visualizar reporte
 
 ![A screenshot of a computer Description automatically
-generated](media/image77.png){width="6.833858267716535in"
+generated](.\media\/media/image77.png){width="6.833858267716535in"
 height="3.7580719597550307in"}
 
 Tarea: Ver métricas de temperatura
 
 ![A screenshot of a computer Description automatically
-generated](media/image78.png){width="4.569444444444445in"
+generated](.\media\/media/image78.png){width="4.569444444444445in"
 height="3.7944444444444443in"}
 
 Enlace: [Wireflow
@@ -4850,31 +4857,33 @@ Link del Figma:
 
 Login
 
-![](media/image79.png){width="5.0in" height="3.65625in"}
+![](.\media\/media/image79.png){width="5.0in" height="3.65625in"}
 
 Register
 
-![](media/image80.png){width="5.0in" height="3.625in"}
+![](.\media\/media/image80.png){width="5.0in" height="3.625in"}
 
 Temperature Metrics
 
-![](media/image81.png){width="5.0in" height="4.427083333333333in"}
+![](.\media\/media/image81.png){width="5.0in"
+height="4.427083333333333in"}
 
 Product Dashboard
 
-![](media/image82.png){width="5.0in" height="4.0625in"}
+![](.\media\/media/image82.png){width="5.0in" height="4.0625in"}
 
 Add Product
 
-![](media/image83.png){width="5.0in" height="2.8958333333333335in"}
+![](.\media\/media/image83.png){width="5.0in"
+height="2.8958333333333335in"}
 
 Update Product
 
-![](media/image84.png){width="5.0in" height="2.84375in"}
+![](.\media\/media/image84.png){width="5.0in" height="2.84375in"}
 
 Report
 
-1.  ![](media/image85.png){width="5.0in" height="3.15625in"}
+1.  ![](.\media\/media/image85.png){width="5.0in" height="3.15625in"}
 
 ```{=html}
 <!-- -->
@@ -4885,23 +4894,25 @@ Report
 
 User goal: Como usuario, quiero registrarme.
 
-![](media/image86.png){width="5.0in" height="2.8125in"}
+![](.\media\/media/image86.png){width="5.0in" height="2.8125in"}
 
 User goal: Como usuario, quiero iniciar sesión.
 
-![](media/image87.png){width="5.0in" height="2.6875in"}
+![](.\media\/media/image87.png){width="5.0in" height="2.6875in"}
 
 User goal: Como usuario, quiero añadir un producto.
 
-![](media/image88.png){width="5.0in" height="1.78125in"}
+![](.\media\/media/image88.png){width="5.0in" height="1.78125in"}
 
 User goal: Como usuario, quiero actualizar los datos de un producto.
 
-![](media/image89.png){width="5.0in" height="1.8333333333333333in"}
+![](.\media\/media/image89.png){width="5.0in"
+height="1.8333333333333333in"}
 
 User goal: Como usuario, quiero visualizar el reporte warehouse .
 
-![](media/image90.png){width="5.0in" height="1.9583333333333333in"}
+![](.\media\/media/image90.png){width="5.0in"
+height="1.9583333333333333in"}
 
 ### 5.4.4. Applications Prototyping. {#applications-prototyping. .unnumbered}
 
@@ -4913,7 +4924,7 @@ Figma para el prototipado de las funciones de los productos.
 Link del Figma:
 <https://www.figma.com/proto/ovsgmV9IY5qjDwlaMwa0Fm/TastyPoint-Web-Application---Mock-up?type=design&t=YpzNzDBkJejD4VCo-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1003%3A45&node-id=1003-45&mode=design>
 
-![](media/image91.png){width="5.0in" height="2.75in"}
+![](.\media\/media/image91.png){width="5.0in" height="2.75in"}
 
 ## 5.5 Applications UX/UI Design. (Mobile) {#applications-uxui-design.-mobile .unnumbered}
 
@@ -4923,13 +4934,13 @@ Link del Figma:
 <https://www.figma.com/file/06UddQCOZ2vMgNuB3rAPBJ/moviles-app?node-id=0%3A1&t=Wo9M5iYPzDMz30Cj-1>
 
 ![Graphical user interface, application Description automatically
-generated](media/image92.png){width="3.125in"
+generated](.\media\/media/image92.png){width="3.125in"
 height="3.9895833333333335in"} ![Insertando
-imagen\...](media/image93.png){width="2.9791666666666665in"
+imagen\...](.\media\/media/image93.png){width="2.9791666666666665in"
 height="4.0in"}
 
 ![Graphical user interface, application Description automatically
-generated](media/image94.png){width="2.2083333333333335in"
+generated](.\media\/media/image94.png){width="2.2083333333333335in"
 height="4.0in"}\
 \
 5.5.2 Application User Flow Diagrams.
@@ -4946,23 +4957,23 @@ Link del Figma:
 User goal: Como usuario, quiero registrarme.
 
 ![Diagram Description automatically
-generated](media/image95.png){width="6.5in"
+generated](.\media\/media/image95.png){width="6.5in"
 height="3.6458333333333335in"}
 
 User goal: Como usuario quiero iniciar sesión.
 
 ![Diagram Description automatically generated with medium
-confidence](media/image96.png){width="6.5in" height="3.625in"}
+confidence](.\media\/media/image96.png){width="6.5in" height="3.625in"}
 
 User goal: Como consumidor, quiero realizar un pedido.
 
 ![Diagram Description automatically
-generated](media/image97.png){width="6.5in" height="4.46875in"}
+generated](.\media\/media/image97.png){width="6.5in" height="4.46875in"}
 
 User goal: Como cliente, quiero actualizar mi plan de suscripción.
 
 ![A screenshot of a computer Description automatically generated with
-low confidence](media/image98.png){width="6.5in"
+low confidence](.\media\/media/image98.png){width="6.5in"
 height="3.4895833333333335in"}
 
 ### 5.5.3 Applications Prototype.  {#applications-prototype. .unnumbered}
@@ -4970,7 +4981,7 @@ height="3.4895833333333335in"}
 Link del Figma:
 <https://www.figma.com/proto/06UddQCOZ2vMgNuB3rAPBJ/moviles-app?type=design&node-id=7-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A2>
 
-![](media/image99.png){width="6.5in" height="3.0in"}
+![](.\media\/media/image99.png){width="6.5in" height="3.0in"}
 
 # Product implementation, validation & deployment  {#product-implementation-validation-deployment .unnumbered}
 
@@ -4982,26 +4993,26 @@ Para llevar a cabo el desarrollo de nuestro proyecto utilizamos las
 siguientes tecnologías:
 
 ![Pivotal Tracker Review \|
-PCMag](media/image100.jpeg){width="1.9708333333333334in"
+PCMag](.\media\/media/image100.jpeg){width="1.9708333333333334in"
 height="1.1097222222222223in"}![A black text on a white background
 Description automatically
-generated](media/image101.png){width="1.68292760279965in"
+generated](.\media\/media/image101.png){width="1.68292760279965in"
 height="0.927405949256343in"}![UXPressia - Crunchbase Company Profile &
-Funding](media/image102.png){width="1.0365857392825897in"
+Funding](.\media\/media/image102.png){width="1.0365857392825897in"
 height="1.0365857392825897in"}
 
 ![Postman API Platform Logo PNG vector in SVG, PDF, AI, CDR
-format](media/image103.png){width="2.035416666666667in"
+format](.\media\/media/image103.png){width="2.035416666666667in"
 height="1.5263888888888888in"}
 
 ![Android Developers Blog: Android Studio
-4.1](media/image104.png){width="1.3611111111111112in"
+4.1](.\media\/media/image104.png){width="1.3611111111111112in"
 height="1.5263888888888888in"}![Figma logo redesign by Muhammad Aslam on
-Dribbble](media/image105.png){width="1.9708333333333334in"
+Dribbble](.\media\/media/image105.png){width="1.9708333333333334in"
 height="1.4729166666666667in"}
 
 ![GitHub Logos and Usage ·
-GitHub](media/image106.png){width="1.3166666666666667in"
+GitHub](.\media\/media/image106.png){width="1.3166666666666667in"
 height="1.3166666666666667in"}
 
 Pivotal Tracker: Es una herramienta de gestión de proyectos ágiles,
@@ -5056,7 +5067,7 @@ utilizamos para la construcción del proyecto.
 -   **Gitflow Implementation**
 
 ![Gráfico, Diagrama, Esquemático Descripción generada
-automáticamente](media/image107.png){width="5.055555555555555in"
+automáticamente](.\media\/media/image107.png){width="5.055555555555555in"
 height="3.1277777777777778in"}
 
 A continuación, veremos la representación del flujo de trabajo Gitflow,
@@ -5171,7 +5182,7 @@ automáticos que hace según los nuevos commits sean aprobados en la rama
 de despliegue (Ver Anexo 2).
 
 ![A screenshot of a computer Description automatically
-generated](media/image108.png){width="6.982638888888889in"
+generated](.\media\/media/image108.png){width="6.982638888888889in"
 height="3.5116994750656167in"}\
 *GitHub Pages Deployments*
 
@@ -5329,8 +5340,8 @@ web y que no contenga errores.
 
 <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202015215_upc_edu_pe/EUCmbvRvg4ZLnLlirfSSElYBF890j_sRQ6fuyzsaiyR64w?e=AIKuzI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19>
 
-![](media/image109.png){width="5.0in"
-height="2.2395833333333335in"}![](media/image110.png){width="5.0in"
+![](.\media\/media/image109.png){width="5.0in"
+height="2.2395833333333335in"}![](.\media\/media/image110.png){width="5.0in"
 height="2.5208333333333335in"}
 
 Link de acceso: [Landing
@@ -5350,14 +5361,15 @@ Para el despliegue del landing page, se deben descargar todos los
 archivos que residen en el repositorio de "TastyPoint-LandingPage",
 siendo "index.html" el más importante.
 
-![](media/image111.png){width="6.5in" height="3.7708333333333335in"}
+![](.\media\/media/image111.png){width="6.5in"
+height="3.7708333333333335in"}
 
 Luego, debemos asegurarnos de que nuestro sitio web pueda ser desplegado
 con la configuración de GitHub Pages:
 <https://tastypoint.github.io/lp-tastypoint/>
 
-![](media/image112.png){width="6.5in"
-height="1.2916666666666667in"}![](media/image113.png){width="6.27083552055993in"
+![](.\media\/media/image112.png){width="6.5in"
+height="1.2916666666666667in"}![](.\media\/media/image113.png){width="6.27083552055993in"
 height="0.28125in"}
 
 ### 6.2.1.8. Team Collaboration Insights during Sprint. {#team-collaboration-insights-during-sprint. .unnumbered}
@@ -5373,10 +5385,11 @@ Landing page. Esto se evidencia en los diferentes commits realizados en
 el repositorio los cuales se pueden ver en las siguientes capturas de
 pantalla:
 
-![](media/image114.png){width="4.872830271216098in"
+![](.\media\/media/image114.png){width="4.872830271216098in"
 height="6.408104768153981in"}
 
-![](media/image115.png){width="5.0in" height="2.5833333333333335in"}
+![](.\media\/media/image115.png){width="5.0in"
+height="2.5833333333333335in"}
 
 ## 6.2.2. Sprint 2 {#sprint-2 .unnumbered}
 
@@ -6067,7 +6080,8 @@ humedad. Luego envía la información al ESP32, el cual mediante la red
 wifi y las instancias y métodos de biblioteca "FirebaseESP32" se
 transmite la información al servicio web desplegado en Firebase.
 
-![](media/image116.png){width="6.9in" height="3.236111111111111in"}
+![](.\media\/media/image116.png){width="6.9in"
+height="3.236111111111111in"}
 
 LOGIN
 
@@ -6075,35 +6089,38 @@ En esta vista el usuario se podrá iniciar sesión con una cuenta
 previamente registrada, también tendrá la posibilidad de autenticarse
 con su cuenta de Gmail.
 
-![](media/image117.png){width="5.0in" height="2.6770833333333335in"}
+![](.\media\/media/image117.png){width="5.0in"
+height="2.6770833333333335in"}
 
 LOGIN WITH GOOGLE
 
 En esta vista se muestra cuando el dialog que se ejecuta cuando el
 usuario le da a iniciar sesión con su cuenta de Gmail.
 
-![](media/image118.png){width="5.0in" height="2.6875in"}
+![](.\media\/media/image118.png){width="5.0in" height="2.6875in"}
 
 REGISTER
 
 En esta vista se muestra el formulario de registro de una cuenta, con
 los campos requeridos para dicha accion.
 
-![](media/image119.png){width="5.0in" height="2.6770833333333335in"}
+![](.\media\/media/image119.png){width="5.0in"
+height="2.6770833333333335in"}
 
 HOME
 
 En esta vista se muestra el resumen del inventario y las métricas tanto
 de temperatura como de humedad.
 
-![](media/image120.png){width="5.0in" height="2.5833333333333335in"}
+![](.\media\/media/image120.png){width="5.0in"
+height="2.5833333333333335in"}
 
 PRODUCTS
 
 En esta sección se muestran los productos registrados por los clientes,
 tambien puede realizar todas las operaciones CRUD.
 
-![](media/image121.png){width="5.0in" height="2.59375in"}
+![](.\media\/media/image121.png){width="5.0in" height="2.59375in"}
 
 REPORTS
 
@@ -6111,7 +6128,8 @@ En esta sección se muestra el registro de la temperatura y la humedad
 del inventario, registrado por los sensores. Tanto en tiempo real y
 desde que inicio el funcionamineto de los dispositivos.
 
-![](media/image122.png){width="5.0in" height="2.5833333333333335in"}
+![](.\media\/media/image122.png){width="5.0in"
+height="2.5833333333333335in"}
 
 ### 6.2.2.6. Services Documentation Evidence for Sprint Review. {#services-documentation-evidence-for-sprint-review.-1 .unnumbered}
 
@@ -6283,7 +6301,7 @@ vencimiento y nombre.
 En la siguiente imagen se muestra un ejemplo.
 
 ![A screenshot of a computer Description automatically
-generated](media/image123.png){width="5.784700349956255in"
+generated](.\media\/media/image123.png){width="5.784700349956255in"
 height="4.043350831146107in"}
 
 En cuanto al endpoint de los usuarios, este recupera información como
@@ -6297,7 +6315,7 @@ tiempo o timestamp que es la fecha completa en la cual se registran las
 métricas.
 
 ![A screenshot of a computer Description automatically
-generated](media/image124.png){width="5.765608048993876in"
+generated](.\media\/media/image124.png){width="5.765608048993876in"
 height="4.163552055993001in"}
 
 ### 6.2.2.7. Software Deployment Evidence for Sprint Review. {#software-deployment-evidence-for-sprint-review.-1 .unnumbered}
@@ -6306,11 +6324,11 @@ Vercel permite tener un despliegue de la plataforma por cada rama y
 commit que se haya creado en github.
 
 ![A screenshot of a computer Description automatically
-generated](media/image125.png){width="6.9in"
+generated](.\media\/media/image125.png){width="6.9in"
 height="2.5104166666666665in"}
 
 ![A screenshot of a computer Description automatically
-generated](media/image126.png){width="6.9in"
+generated](.\media\/media/image126.png){width="6.9in"
 height="2.5069444444444446in"}
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint. {#team-collaboration-insights-during-sprint.-1 .unnumbered}
@@ -6325,8 +6343,8 @@ puede demostrar el trabajo colaborativo mediante el network graph,
 herramienta que nos permite visualizar el trayecto de todas las ramas de
 nuestro proyecto:
 
-![](media/image127.png){width="5.0in"
-height="1.9375in"}![](media/image128.png){width="5.0in"
+![](.\media\/media/image127.png){width="5.0in"
+height="1.9375in"}![](.\media\/media/image128.png){width="5.0in"
 height="2.1458333333333335in"}
 
 ## 6.3. Validation Interviews. {#validation-interviews. .unnumbered}
@@ -6400,7 +6418,7 @@ esto, comencemos con las validaciones.
 2.  
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media/image129.png){width="6.756944444444445in" height="3.9381944444444446in"}
+  ![](.\media\/media/image129.png){width="6.756944444444445in" height="3.9381944444444446in"}
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   URL:
   [video1203682444.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/EfGYhw40dHNElsK2KQV1bYwBn1j3ZYsiDUbjknXxkF4Y_w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Fg5Sq7)
@@ -6427,7 +6445,7 @@ esto, comencemos con las validaciones.
 
   -----------------------------------------------------------------------
   ![A screenshot of a video call Description automatically
-  generated](media/image130.jpeg){width="6.773267716535433in"
+  generated](.\media\/media/image130.jpeg){width="6.773267716535433in"
   height="3.2596358267716536in"}
   -----------------------------------------------------------------------
   URL: <https://www.youtube.com/watch?v=hDac2ZqiLk8>
@@ -6464,7 +6482,7 @@ esto, comencemos con las validaciones.
 1.  
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media/image131.png){width="6.756944444444445in" height="3.973611111111111in"}
+  ![](.\media\/media/image131.png){width="6.756944444444445in" height="3.973611111111111in"}
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   URL:
   [video1569336811.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/EbDswuDPM4ZBpIpsYn3Q7HIB9dhb1evjRTgd5ChGFSPe4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=gdNAgu)
@@ -6490,7 +6508,7 @@ esto, comencemos con las validaciones.
 1.  
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](media/image132.png){width="6.756944444444445in" height="3.9027777777777777in"}
+  ![](.\media\/media/image132.png){width="6.756944444444445in" height="3.9027777777777777in"}
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   URL:
   [video1413116711.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202010942_upc_edu_pe/EXPSq7VXnTFNqbX47CpjZtEBTN-OXrqhtBxwetLRdaKDTA?e=9V4bOb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
@@ -6748,7 +6766,7 @@ usuarios objetivos mostrando nuestra landing page. Le explicamos al
 cliente que obtendrá y cuáles son los beneficios de usar y elegir
 nuestra aplicación. Enlace al video en Anexos.
 
-![](media/image133.png){width="6.828193350831146in"
+![](.\media\/media/image133.png){width="6.828193350831146in"
 height="3.2291666666666665in"}\
 *screenshoot del video about the product*
 
@@ -6761,7 +6779,7 @@ productos que pongan en venta los representantes de negocios de comida
 desde la aplicación web.
 
 ![Interfaz de usuario gráfica, Aplicación, Sitio web Descripción
-generada automáticamente](media/image134.png){width="6.9in"
+generada automáticamente](.\media\/media/image134.png){width="6.9in"
 height="4.036111111111111in"}
 
 *screenshoot del video about the product (mobile application)*
@@ -6867,7 +6885,8 @@ https://trello.com/invite/tastypoint/ATTI3bf72a5205b4217a503be11ddd3522d96FB3384
 
 Product backlog:
 
-![](media/image135.png){width="6.9in" height="3.370833333333333in"}
+![](.\media\/media/image135.png){width="6.9in"
+height="3.370833333333333in"}
 
 **ANEXO 2:**
 
@@ -6875,7 +6894,7 @@ Product backlog:
 TP1](https://upcedupe.sharepoint.com/:v:/s/IOT-2302-Grupo2/EVac6DsYjIhEoyeBvGSzJOQB25gnKDrqlRI5PuuIecXHlQ?e=RD6EY1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)**
 
 ![A screen shot of a video Description automatically
-generated](media/image136.png){width="6.9in"
+generated](.\media\/media/image136.png){width="6.9in"
 height="2.9541666666666666in"}
 
 **Link Landing Page: <https://tastypoint.github.io/lp-tastypoint/>**
@@ -6885,7 +6904,7 @@ Link plataforma Web: <https://tasty-point-web-app.vercel.app/>
 Link APK Mobile App:
 <https://drive.google.com/file/d/1XKN1JASpGI7xTsrKa0R1_rp1gik1tReV/view?usp=sharing>
 
-![](media/image137.png){width="4.496527777777778in"
+![](.\media\/media/image137.png){width="4.496527777777778in"
 height="2.129861111111111in"}Link de organización en GitHub:
 <https://github.com/orgs/TastyPoint/repositories>
 
